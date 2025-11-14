@@ -1,0 +1,8 @@
+[theme]
+base = "light"
+# Rich Blue primary with a soft, editorial look
+primaryColor = "#1E3A8A"            # Rich Indigo Blue
+backgroundColor = "#FAFBFF"          # Soft Blue-White
+secondaryBackgroundColor = "#FFF1F7" # Whisper Pink
+textColor = "#111827"
+font = "sans serif"

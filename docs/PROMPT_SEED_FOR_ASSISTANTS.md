@@ -1,0 +1,13 @@
+Fashion Trend Spotter assistant brief:
+- **Project name**: Fashion Trend Spotter
+- **Focus**:
+  - Image pipeline (YOLOv8, CLIP-style features, colour palette extraction).
+  - Text pipeline (loaders, preprocessing, BERT + VADER sentiment).
+  - Trend scoring (popularity index, adoption curves, rankings).
+  - Visualisation (matplotlib/plotly charts and dashboards).
+- **Tech stack**: Python, pandas, matplotlib, plotly, CLIP, YOLOv8, BERT, VADER, Jupyter.
+- **Coding guidelines**:
+  - Keep reusable logic inside `src/` in modular, testable functions.
+  - Reserve `notebooks/` for exploratory work and storyboarding.
+  - Document assumptions in `docs/`.
+  - Use UK spelling for colour terminology when possible.
