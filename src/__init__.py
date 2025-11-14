@@ -1,1 +1,1 @@
-"""Main package root (legacy placeholder)."""
+"""Core package for the Fashion Trend Spotter project."""
