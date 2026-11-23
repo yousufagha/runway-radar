@@ -22,4 +22,3 @@ requirements.txt – dependency pin list
 1. `python -m venv .venv` and activate the virtual environment (`.\.venv\Scripts\Activate.ps1` on PowerShell).
 2. `pip install -r requirements.txt`
 3. Open the overview notebook: `jupyter notebook notebooks/00_project_overview.ipynb`
-4. Or run the Streamlit app on the demo set: `streamlit run app/streamlit_app.py`
